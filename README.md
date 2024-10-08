@@ -1,6 +1,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hi, I'm Miska and Welcome to my GitHub Profile!
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7A6FF&width=435&lines=Aspiring+Front-End+Developer;Always+learning+something+new!;Code%2C+Coffee%2C+Repeat)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=39FF14&width=435&lines=Aspiring+Front-End+Developer;Always+learning+something+new!;Code%2C+Coffee%2C+Repeat)
 ---
 
 I'm currently pursuing my studies in Business Information Technology at **Laurea University**. With almost 7 years of work experience at Swissport Finland Oy, I've honed my soft skills like teamwork, communication, adaptability and stressmanagement My interest in web development has led me to work on various projects, ranging from **static websites** to **movie applications** that interact with external APIs.
