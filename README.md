@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Linux"/>
 </div>
 
-### **AI**
+### **AI Tools**
 <div> <img src="https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white" alt="GPT-4"/>
   <img src="https://img.shields.io/badge/GitHub_Copilot-00897B?style=flat-square&logo=github&logoColor=white" alt="GitHub Copilot"/> </div>
 
@@ -65,7 +65,7 @@ I'm constantly improving my skills and learning new technologies. Currently, I'm
 
 ---
 
-## 🚀 **My Future Goals**
+## 🚀 **My Current Goals**
 
 - 🎓 Complete my degree and continue expanding my knowledge in **Front-End Development and UI/UX Design**.
 - 💼 Land an internship that allows me to further hone my skills in the field of IT.
