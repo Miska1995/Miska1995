@@ -101,7 +101,7 @@ I'm constantly improving my skills and learning new technologies. Currently, I'm
 
   <!-- Typing Effect Introduction -->
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3500&pause=1200&color=39FF14&vCenter=true&width=700&lines=%F0%9F%9A%80+Loading+my+next+big+project...;Always+learning%2C+always+evolving...;Building+with+%E2%9A%A1+HTML%2C+CSS%2C+JavaScript...;Ready+for+an+adventure+in+code!;The+future+is+being+crafted%2C+stay+tuned!" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3500&pause=1200&color=39FF14&vCenter=true&width=700&lines=%F0%9F%9A%80+Loading+my+next+project...;Always+learning%2C+always+evolving...;Building+with+%E2%9A%A1+HTML%2C+CSS%2C+JS...;Ready+for+an+adventure+in+code!;3...+2...+1...+Lift+off!+🚀" alt="Typing SVG">
 
   <!-- Fun Subtle Note -->
   <br>
