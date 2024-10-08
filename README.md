@@ -5,7 +5,7 @@
 
 ### Welcome to my GitHub profile!
 
-I'm an aspiring **Front-End Developer** currently pursuing my studies in IT at **Laurea University**. With almost 7 years of work experience at Swissport Finland Oy, I've honed my soft skills like teamwork, communication, and adaptability. My interest in web development has led me to work on various projects, ranging from **static websites** to **movie applications** that interact with external APIs.
+I'm currently pursuing my studies in Business Information Technology at **Laurea University**. With almost 7 years of work experience at Swissport Finland Oy, I've honed my soft skills like teamwork, communication, adaptability and stressmanagement My interest in web development has led me to work on various projects, ranging from **static websites** to **movie applications** that interact with external APIs.
 
 ---
 
