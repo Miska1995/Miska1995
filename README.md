@@ -61,8 +61,8 @@ I'm constantly improving my skills and learning new technologies. Currently, I'm
 ## 🚀 **My Future Goals**
 
 - 🎓 Complete my degree and continue expanding my knowledge in **Front end development and UI/UX Design**.
-- 💼 Land an internship that allows me to further hone my skills.
-- 🌱 Learn more about **cloud computing** and **DevOps** for scalable solutions.
+- 💼 Land an internship that allows me to further hone my skills in the field of IT.
+- 🌱 Learn more about **AI** and how it changes the daily worklife of front-end developers and UI/UX Designers
 
 ---
 ## 🛠️ **My Debugging Process**
