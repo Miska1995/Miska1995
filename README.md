@@ -29,7 +29,7 @@ Here are some of the languages and tools I work with:
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
-  <img src="https://img.shields.io/badge/Wireframing-000000?style=for-the-badge&logo=wireframes&logoColor=white" alt="Wireframing"/>
+  <img src="https://img.shields.io/badge/Balsamiq-000000?style=for-the-badge&logo=balsamiq&logoColor=white" alt="Balsamiq"/>
 </p>
 
 ### **Development Tools**
