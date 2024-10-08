@@ -1,15 +1,43 @@
 
-<!--
-**Miska1995/Miska1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 👋 Hi, I'm Miska!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Welcome to my GitHub profile!
+
+I'm an aspiring **Front-End Developer** currently pursuing my studies in IT at **Laurea University**. With almost 7 years of work experience at Swissport Finland Oy, I've honed my soft skills like teamwork, communication, and adaptability. My interest in web development has led me to work on various projects, ranging from **statistical websites** to **movie applications** that interact with external APIs.
+
+---
+
+## 🔧 **Technologies & Tools**
+
+Here are some of the languages and tools I work with:
+
+- **Languages**: `HTML`, `CSS`, `JavaScript`, `React`, `Node.js`
+- **Databases**: `MongoDB`
+- **UI/UX Tools**: `Figma`, `Canva`, `Wireframing`
+- **Development Tools**: `GitHub`, `Netlify`, `Microsoft 365`
+- **Operating Systems**: `Windows`, `macOS`, `Linux`
+
+---
+
+## 🌱 **What I'm Learning**
+
+I'm constantly improving my skills and learning new technologies. Currently, I'm focused on:
+
+- Building full-stack applications with **React** and **Node.js**
+- Deepening my knowledge of **MongoDB** for database management
+- Exploring **UI/UX design** to create intuitive and user-friendly interfaces
+
+---
+
+## 📈 **GitHub Stats**
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+
+## 📫 **Let's Connect**
+
+- LinkedIn: [www.linkedin.com/in/miska-tevilin-386083262](#)
+- Email: [Miskatevilin@gmail.com](mailto:your.email@example.com)
