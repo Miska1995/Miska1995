@@ -11,7 +11,7 @@
 
 ### 👨‍🎓 **About Me**
 
-- 📚 Currently pursuing **Business Information Technology** at Laurea University.
+- 📚 Currently pursuing bachelors degree from **Business Information Technology** at Laurea University.
 - 💼 Nearly 7 years at **Swissport Finland Oy**, developing strong soft skills like teamwork, communication, adaptability, and stress management.
 - 💻 Passionate about **front-end web development**, with projects ranging from static websites to complex movie applications utilizing external APIs.
 - 🎨 Focused on creating clean, responsive, and user-friendly interfaces that prioritize both **design and functionality**.
