@@ -1,5 +1,5 @@
 <!-- improved GitHub README starts here -->
-![Header](./banner.png)
+![Header](./background.png)
 <div align="center">
  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=39FF14&width=500&lines=Aspiring+Front-End+Developer;Always+learning+something+new!;Code%2C+Coffee%2C+Repeat" alt="Typing SVG">
