@@ -1,9 +1,7 @@
 <!-- improved GitHub README starts here -->
-
+![Header](./banner.png)
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
-  <h2>Hi there, I'm Miska! Welcome to my GitHub Profile!</h2>
-  
+ 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=39FF14&width=500&lines=Aspiring+Front-End+Developer;Always+learning+something+new!;Code%2C+Coffee%2C+Repeat" alt="Typing SVG">
 </div>
 
