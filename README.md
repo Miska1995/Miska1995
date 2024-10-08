@@ -40,7 +40,6 @@ I'm constantly improving my skills and learning new technologies. Currently, I'm
 ---
 ## 🛠️ **My Debugging Process**
 
----
 1. Panic. 😱
 2. Blame the computer. 💻
 3. Blame JavaScript. 🤨
