@@ -39,4 +39,6 @@ I'm constantly improving my skills and learning new technologies. Currently, I'm
 
 ## 📫 **Let's Connect**
 
-- LinkedIn: [www.linkedin.com/in/miska-tevilin-386083262](#)
+## 📫 **Let's Connect**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/miska-tevilin-386083262)
