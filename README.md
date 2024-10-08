@@ -17,7 +17,7 @@ Here are some of the languages and tools I work with:
 - **Databases**: `MongoDB`
 - **UI/UX Tools**: `Figma`, `Canva`, `Wireframing`
 - **Development Tools**: `GitHub`, `Netlify`, `Microsoft 365`
-- **Operating Systems**: `Windows`, `macOS`, `Linux`
+- **Operating Systems**: `Windows`, `macOS`, `Linux (Ubuntu distro)`
 
 ---
 
