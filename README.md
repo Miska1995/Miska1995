@@ -51,8 +51,10 @@
 </div>
 
 ### **AI Tools**
-<div> <img src="https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white" alt="GPT-4"/>
-  <img src="https://img.shields.io/badge/GitHub_Copilot-00897B?style=flat-square&logo=github&logoColor=white" alt="GitHub Copilot"/> </div>
+<div> 
+  <img src="https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white" alt="GPT-4"/>
+  <img src="https://img.shields.io/badge/Microsoft_Copilot-00BCF2?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Copilot"/> 
+</div>
 
 ## 🌱 **What I'm Learning**
 
