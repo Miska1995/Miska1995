@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=39FF14&width=435&lines=Aspiring+Front-End+Developer;Always+learning+something+new!;Code%2C+Coffee%2C+Repeat)
 ---
 
-I'm currently pursuing my studies in Business Information Technology at **Laurea University**. With almost 7 years of work experience at Swissport Finland Oy, I've honed my soft skills like teamwork, communication, adaptability and stressmanagement My interest in web development has led me to work on various projects, ranging from **static websites** to **movie applications** that interact with external APIs.
+I’m currently pursuing my studies in Business Information Technology at Laurea University. With almost 7 years of work experience at Swissport Finland Oy, I’ve developed strong soft skills like teamwork, communication, adaptability, and stress management. My passion for web development is primarily focused on the front-end side, where I’ve built a variety of projects, from static websites to more complex movie applications that leverage external APIs. My projects highlight my ability to create clean, responsive, and user-friendly interfaces that prioritize both design and functionality.
 
 ---
 
