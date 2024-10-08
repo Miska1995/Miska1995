@@ -50,3 +50,4 @@ I'm constantly improving my skills and learning new technologies. Currently, I'm
 ## 📫 **Let's Connect**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miska-tevilin-386083262/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Miskatevilin@gmail.com)
