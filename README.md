@@ -29,7 +29,6 @@ I'm constantly improving my skills and learning new technologies. Currently, I'm
 - Deepening my knowledge of **MongoDB** for database management
 - Exploring **UI/UX design** to create intuitive and user-friendly interfaces
 - Building webpages with WordPress
----
 
 ## 🚀 **My Future Goals**
 
