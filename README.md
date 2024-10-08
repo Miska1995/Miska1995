@@ -80,7 +80,7 @@ I'm constantly improving my skills and learning new technologies. Currently, I'm
 1. 😱 Panic.
 2. 💻 Blame the computer.
 3. 🤨 Blame JavaScript.
-4. 🔍 Google it.
+4. 🔍 Google it (or ask from AI)
 5. 🎉 Fix it.
 6. 😎 Take full credit.
 
