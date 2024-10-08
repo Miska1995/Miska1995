@@ -28,7 +28,7 @@ I'm constantly improving my skills and learning new technologies. Currently, I'm
 - Building full-stack applications with **React** and **Node.js**
 - Deepening my knowledge of **MongoDB** for database management
 - Exploring **UI/UX design** to create intuitive and user-friendly interfaces
-
+- Building webpages with WordPress
 ---
 
 ## 📈 **GitHub Stats**
@@ -40,4 +40,3 @@ I'm constantly improving my skills and learning new technologies. Currently, I'm
 ## 📫 **Let's Connect**
 
 - LinkedIn: [www.linkedin.com/in/miska-tevilin-386083262](#)
-- Email: [Miskatevilin@gmail.com](mailto:your.email@example.com)
