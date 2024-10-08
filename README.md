@@ -31,9 +31,11 @@ I'm constantly improving my skills and learning new technologies. Currently, I'm
 - Building webpages with WordPress
 ---
 
-## 📈 **GitHub Stats**
+## 🚀 **My Future Goals**
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+- 🎓 Complete my degree and continue expanding my knowledge in **Front end development and UI/UX Design**.
+- 💼 Land an internship that allows me to further hone my skills.
+- 🌱 Learn more about **cloud computing** and **DevOps** for scalable solutions.
 
 ---
 
