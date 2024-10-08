@@ -1,7 +1,7 @@
+## 👋 Hi, I'm Miska Tevilin!
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7A6FF&width=435&lines=Aspiring+Front-End+Developer;Always+learning+something+new!;Code%2C+Coffee%2C+Repeat)
 ---
-
-# 👋 Hi, I'm Miska!
 
 ### Welcome to my GitHub profile!
 
