@@ -38,7 +38,17 @@ I'm constantly improving my skills and learning new technologies. Currently, I'm
 - 🌱 Learn more about **cloud computing** and **DevOps** for scalable solutions.
 
 ---
+## 🛠️ **My Debugging Process**
 
+---
+1. Panic. 😱
+2. Blame the computer. 💻
+3. Blame JavaScript. 🤨
+4. Google it. 🔍
+5. Fix it. 🎉
+6. Take full credit. 😎
+   
+---
 ## 📫 **Let's Connect**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miska-tevilin-386083262/)
