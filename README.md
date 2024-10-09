@@ -1,5 +1,6 @@
 <!--  GitHub README starts here -->
-![Header](./background.png)
+![Header](./background.png)  ![Visitors](https://hits.sh/github.com/Miska1995/Miska1995.svg?style=flat-square)
+
 
 ---
 
