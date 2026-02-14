@@ -4,12 +4,7 @@
 
 ---
 
-### 👨‍🎓 **About Me**
-
-- 📚 Currently pursuing bachelors degree from **Business Information Technology** at Laurea University.
-- 💼 Nearly 7 years at **Swissport Finland Oy**, I developed a strong set of soft skills like teamwork, communication (written and verbal), adaptability, and stress management.
-- 💻 Interested in **front-end web development**, with projects ranging from static websites to more complex movie applications utilizing external APIs.
-- 🎨 Focused on creating clean, responsive, and user-friendly interfaces that prioritize both **design and functionality**.
+### My name is Miska and here's what I know:
 
 ---
 
